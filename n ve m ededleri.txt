@@ -1,0 +1,9 @@
+n və m ədədlərinin cəminin tapılması
+input n,m
+ n%2== 0 
+  m%2== 0
+    print " enter n+m"
+     else
+      n%2!= 0
+       m%2!= 0
+        print "dont enter n+m"
