@@ -1,0 +1,12 @@
+3-ə və 7-ə bölünmə
+input n
+ 3^n== n
+   print "divided by 3 without remainder"
+    else
+3^n != n
+   print " dont divided by 3 without remainder"
+
+
+
+
+
