@@ -1,0 +1,7 @@
+Havanın temperatoru
+ input - x
+  x>15
+ print " enter harm"
+else
+  x<15 
+ print "enter cold"
